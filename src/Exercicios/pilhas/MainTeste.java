@@ -1,4 +1,4 @@
-package pilhas;
+package Exercicios.pilhas;
 
 public class MainTeste {
     public static void main(String[] args) {

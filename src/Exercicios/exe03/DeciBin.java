@@ -1,6 +1,6 @@
-package exe03;
+package Exercicios.exe03;
 
-import pilhas.PilhaInt;
+import Exercicios.pilhas.PilhaInt;
 
 import java.util.Scanner;
 
